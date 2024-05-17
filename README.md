@@ -5,7 +5,5 @@
 ## For Installation 
 To install and run this project - install dependencies
 
----
 For Frontend - $ npm start
 For Backend - $ npm run dev 
----
