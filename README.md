@@ -1,5 +1,5 @@
 # E-Commerce-Website
-### You can see the files in Master Branch.
+### You can found the files in Master Branch.
 
 ---
 ## For Installation 
